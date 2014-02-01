@@ -15,4 +15,4 @@ The process of checking, matching, setting, filling, and disposal is repeated fo
 
 ## Try it out
 
-The code can be tested at [http://codecombat.com/play/level/gridmancer].
+The code can be tested at http://codecombat.com/play/level/gridmancer.
