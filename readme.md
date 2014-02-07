@@ -15,4 +15,6 @@ The process of checking, matching, setting, filling, and disposal is repeated fo
 
 ## Try it out
 
-The code can be tested at http://codecombat.com/play/level/gridmancer.
+[code]: https://github.com/Vardarac/Gridmancer-Solution/blob/master/codecombatphase2.js
+
+The [code] can be tested at http://codecombat.com/play/level/gridmancer. Simply replace the default code with the code provided in the first link.
